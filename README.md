@@ -1,1 +1,2 @@
-# DATA-SCIENCE-PROJECTS-WITH-PYTHON---PACKT
+# DATA-SCIENCE-PROJECTS-WITH-PYTHON
+In my data science project, guided by "Data Science Projects with Python," I refined my skills in processing data with pandas, creating visualizations with Matplotlib, and implementing machine learning models using scikit-learn and XGBoost. I tackled model overfitting with lasso and ridge regression, built ensemble models, and honed my ability to evaluate and interpret model performance. This experience culminated in deriving actionable business insights, demonstrating the practical application of my data science expertise
